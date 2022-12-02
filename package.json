@@ -1,0 +1,25 @@
+{
+  "name": "ms-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Msoukoule/ms-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "msoukoule <mariamesoukoule@gmail.com> (https://www.npmjs.com/~msoukoule)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Msoukoule/ms-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/Msoukoule/ms-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
